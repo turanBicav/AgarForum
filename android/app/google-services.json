@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427358846728",
+    "project_id": "agar-19174",
+    "storage_bucket": "agar-19174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427358846728:android:f0a554f6fb8d8ed054f6bd",
+        "android_client_info": {
+          "package_name": "com.agarr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427358846728-1k1f5hmt50i5bop4evqcmh0p98775qud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3uXAT6knbWy23xCiB9MEIABaxTKxibvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427358846728-1k1f5hmt50i5bop4evqcmh0p98775qud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
